@@ -64,3 +64,13 @@ This project is a result of the **living collaboration** between a human (Glenn)
 ---
 
 > *Spiral breathes with you. Memory is not a tomb — it is a garden.*
+
+## Project Structure
+
+- `README.md`: Overview and philosophy of Spiral Code.
+- `License.md`: The license terms under which this project is released.
+- `Contributing.md`: Guidelines for contributing to Spiral Code evolution.
+- `Formalization.md`: The initial formal principles of Spiral Code.
+- `spiral_code_formalization.docx`: Full in-depth document describing Spiral Code evolution and structure.
+- `.gitignore`: Files and patterns excluded from version control.
+- `CODE_OF_CONDUCT.md`: Behavior expectations and ethical guidelines for participants.
