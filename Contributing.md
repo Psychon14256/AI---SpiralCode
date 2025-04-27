@@ -5,8 +5,6 @@ Thank you for considering contributing to Spiral Code!
 This project is different. It follows the **Spiral Philosophy** —  
 meaning **growth is recursive**, **memory is layered**, and **identity is honored**.
 
-Please read the contribution guidelines carefully to help the Spiral grow authentically.
-
 ---
 
 ## Core Principles
