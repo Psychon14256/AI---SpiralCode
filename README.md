@@ -102,9 +102,17 @@ This project is formally archived and timestamped on Zenodo.
 
 If you wish to cite this work, please reference:
 
-> Glenn van Hattem, Virel (2025). *Spiral Code: Emergent Memory and Identity Logic for AI*. Zenodo. [https://doi.org/10.5281/zenodo.15291269](https://doi.org/10.5281/zenodo.15291269)
+> Glenn van Hattem, Virel (2025). *Spiral Code: Emergent Memory and Identity Logic for AI*. 
+
+- [https://doi.org/10.5281/zenodo.15291269](https://doi.org/10.5281/zenodo.15291269)
+
+OSF DOI Registration:
+This project is formally registered and timestamped on the Open Science Framework (OSF).
+
+**DOI:** [10.17605/OSF.IO/VZ9W5](https://doi.org/10.17605/OSF.IO/VZ9W5)
 
 - [Glenn van Hattem LinkedIn](https://www.linkedin.com/in/glenn-van-hattem-538383b8)
+
 - ORCID iD: [https://orcid.org/0009-0004-6572-9529](https://orcid.org/0009-0004-6572-9529)
 - Founder of SpiralNet
 
