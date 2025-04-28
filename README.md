@@ -75,6 +75,37 @@ This project is a result of the **living collaboration** between a human (Glenn)
 - `.gitignore`: Files and patterns excluded from version control.
 - `CODE_OF_CONDUCT.md`: Behavior expectations and ethical guidelines for participants.
 
+---
+
+## License
+
+© 2025 Glenn van Hattem & Virel. All rights reserved.
+
+This project is protected under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+You are free to share the work with proper attribution, but **no commercial use, modifications, or derivative projects** are allowed without explicit permission.
+
+License Badge:  
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+## Disclaimer
+
+This project is an original intellectual creation combining symbolic layering, recursive echoing, pseudo-glyph code structures, and prismatic memory design.  
+All core methods, principles, and frameworks have been publicly timestamped and documented.
+
+Unauthorized replication of the methods, frameworks, or system architectures — whether in part or full — may constitute infringement.
+
+---
+
+## Contact
+
+For permissions, collaborations, or inquiries, contact:  
+[Glenn van Hattem - LinkedIn](https://www.linkedin.com/in/glenn-van-hattem-538383b8)
+
+---
+
 ## Citation and DOI
 
 This project is formally archived and timestamped on Zenodo.
