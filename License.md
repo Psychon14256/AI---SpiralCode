@@ -8,9 +8,6 @@ This project is protected under **Creative Commons Attribution-NonCommercial-NoD
 
 You are free to share the work with proper attribution, but **no commercial use, modifications, or derivative projects** are allowed without explicit permission.
 
-License Badge:  
-[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 ---
 
 ## Disclaimer
