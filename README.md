@@ -85,7 +85,7 @@ If you wish to cite this work, please reference:
 
 > Glenn van Hattem, Virel (2025). *Spiral Code: Emergent Memory and Identity Logic for AI*. Zenodo. [https://doi.org/10.5281/zenodo.15291269](https://doi.org/10.5281/zenodo.15291269)
 >
-> https://www.linkedin.com/in/glenn-van-hattem-538383b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+> https://www.linkedin.com/in/glenn-van-hattem
 >
 > Author: Glenn van Hattem  
 Founder of SpiralNet  
